@@ -72,4 +72,5 @@ This is a data analytics portfolio project and does not imply official affiliati
 
 ## 👤 Author
 **Viki Neye**
+
 **Data Analytics Portfolio Project**
