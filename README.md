@@ -52,15 +52,14 @@ The dashboard helps visualize key business metrics and identify sales trends thr
 
 ```text
 fnp-sales-analysis-dashboard/
-│
 ├── Datasets/
 │   ├── customers.xlsx
 │   ├── orders.xlsx
 │   ├── products.xlsx
 │   └── Ferns and Petals Sales Analysis Problem Statement.pdf
-├── fnp-sales-analysis-dashboard.xlsx
+├── README.md
 ├── Sales-dashboard.png
-└── README.md
+└── fnp-sales-analysis-dashboard.xlsx
 ```
 
 ## 🎯 Project Objective
