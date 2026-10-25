@@ -8,6 +8,8 @@ The dashboard helps visualize key business metrics and identify sales trends thr
 
 ## 🖼️ Dashboard Preview
 
+![FNP Sales Analysis Dashboard](./Sales-dashboard.png)
+
 
 
 ## 📌 Key Performance Indicators (KPIs)
