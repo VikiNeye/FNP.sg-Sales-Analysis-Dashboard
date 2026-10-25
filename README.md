@@ -1,7 +1,3 @@
-Copy the entire content below and paste it directly into your GitHub `README.md` editor. GitHub will automatically format the headings, bullet points, bold text, and dashboard image when you save it.
-
-How to use: Open your repository → click `README.md` → click the pencil (Edit) icon → paste the content → click Commit changes.
-
 # FNP Sales Analysis Dashboard
 
 ## 📊 Project Overview
